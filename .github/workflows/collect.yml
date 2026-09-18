@@ -1,0 +1,42 @@
+name: collect
+
+on:
+  schedule:
+    # 每天 UTC 02:17 (北京 10:17, 在配置 updateStartTime=8 之后, 避开整点拥堵)
+    - cron: "17 2 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run collector
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/collect.py
+
+      - name: Commit index & config archives
+        run: |
+          git config user.name  "collector-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add configs versions.json
+          if git diff --cached --quiet; then
+            echo "索引与配置无变化, 跳过提交"
+          else
+            git commit -m "collect: $(date -u +%Y-%m-%dT%H:%MZ) 索引/配置更新"
+            git push
+          fi
