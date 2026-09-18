@@ -1,0 +1,71 @@
+{
+  "versions": {
+    "RadiumWMPF-8518": {
+      "plugin": "RadiumWMPF",
+      "build": 8518,
+      "semver": "2.1.0.61",
+      "arch": "x86",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Windows/XPlugin/Package/RadiumWMPF_2.1.0.61_x86_V8518.zip",
+      "md5": "7DAE474F00D9CA76D3483909A04C14A2",
+      "appClientVerMin": "0x6307062C",
+      "origin": "win3",
+      "collectedAt": "2026-09-18T16:31:26Z"
+    },
+    "RadiumWMPF-14185": {
+      "plugin": "RadiumWMPF",
+      "build": 14185,
+      "semver": "2.2.0.422",
+      "arch": "x64",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Windows/XPlugin/Package/RadiumWMPF_2.2.0.422_x64_V14185.zip",
+      "md5": "A67C2CC1E8EAEFDD516988AEDCC1016B",
+      "appClientVerMin": "0x63080001",
+      "origin": "win3",
+      "collectedAt": "2026-09-18T16:32:34Z"
+    },
+    "RadiumWMPF-14315": {
+      "plugin": "RadiumWMPF",
+      "build": 14315,
+      "semver": "2.2.0.468",
+      "arch": "x64",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Windows/XPlugin/Package/RadiumWMPF_2.2.0.468_x64_V14315.zip",
+      "md5": "4415E37E37CFAED38C43068406E31D81",
+      "appClientVerMin": "0x63080001",
+      "origin": "win3",
+      "collectedAt": "2026-09-18T16:33:42Z"
+    },
+    "RadiumWMPF-19841": {
+      "plugin": "RadiumWMPF",
+      "build": 19841,
+      "semver": "2.4.2.49",
+      "arch": "x64",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.4.2.49_x64_universal_V19841.zip",
+      "md5": "5F6F13F09655B95B37280537A308824F",
+      "appClientVerMin": "0xf2541801",
+      "origin": "uni4",
+      "collectedAt": "2026-09-18T16:33:56Z"
+    },
+    "RadiumWMPF-25297": {
+      "plugin": "RadiumWMPF",
+      "build": 25297,
+      "semver": "2.5.5.13",
+      "arch": "x64",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.5.13_x64_universal_V25297.zip",
+      "md5": "B7692EC581F3C2FA80B5478F497DA729",
+      "appClientVerMin": "0xf2541701",
+      "origin": "uni4",
+      "collectedAt": "2026-09-18T16:34:10Z"
+    },
+    "RadiumWMPF-26502": {
+      "plugin": "RadiumWMPF",
+      "build": 26502,
+      "semver": "2.6.0.5",
+      "arch": "x64",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.5_x64_universal_V26502.zip",
+      "md5": "FF6224BB36A5EFAB2BC3CD07B03B8D4D",
+      "appClientVerMin": "0xf2541701",
+      "origin": "uni4",
+      "collectedAt": "2026-09-18T16:34:27Z"
+    }
+  },
+  "updatedAt": "2026-09-18T16:34:27Z"
+}
