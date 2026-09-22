@@ -134,6 +134,7 @@ def main():
 
     # 1. 拉两份配置 + 存档 + 解析合并
     collected = {}
+    cfg_new_cnt = 0
     for key, url in SOURCES:
         latest = CONFIG_DIR / ("%s-latest.xml" % key)
         try:
@@ -145,6 +146,7 @@ def main():
         archive = CONFIG_DIR / ("%s-cv%s.xml" % (key, config_ver))
         if not archive.exists():
             archive.write_bytes(latest.read_bytes())
+            cfg_new_cnt += 1
             print("[cfg] %s configVer=%s 已存档" % (key, config_ver))
         entries = parse_plugin_versions(latest, origin=key)
         for build, e in entries.items():
@@ -174,8 +176,9 @@ def main():
             index = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
         except Exception:
             pass
+    index.setdefault("versions", {})
 
-    new_cnt = skip_cnt = patch_cnt = 0
+    new_cnt = skip_cnt = patch_cnt = backfill_cnt = 0
     for build, e in sorted(collected.items()):
         tag = "%s-%d" % (PLUGIN, build)
         zip_name = Path(e["fullurl"]).name
@@ -183,6 +186,13 @@ def main():
             if zip_name in gh_release_asset_names(tag):
                 print("[skip] %s 已存在" % tag)
                 skip_cnt += 1
+                if tag not in index["versions"]:
+                    # 索引缺这条(如 versions.json 曾丢失), 补录并计为一次变化
+                    e2 = dict(e)
+                    e2.pop("firstSeen", None)
+                    e2["collectedAt"] = now_iso()
+                    index["versions"][tag] = e2
+                    backfill_cnt += 1
                 continue
             print("[patch] %s 存在但缺 asset, 补传" % tag)
             zip_path = download_and_verify(e)
@@ -208,8 +218,16 @@ def main():
         e["collectedAt"] = now_iso()
         index["versions"][tag] = e
 
-    index["updatedAt"] = now_iso()
-    INDEX_PATH.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+    # 只有真实变化(新版本/补传/新配置存档/索引补录)才刷新 updatedAt;
+    # 内容无变化时不改写文件, 否则 workflow 每天都会空提交一次
+    changed = new_cnt or patch_cnt or cfg_new_cnt or backfill_cnt
+    if changed or "updatedAt" not in index:
+        index["updatedAt"] = now_iso()
+    new_text = json.dumps(index, ensure_ascii=False, indent=2)
+    if not INDEX_PATH.exists() or INDEX_PATH.read_text(encoding="utf-8") != new_text:
+        INDEX_PATH.write_text(new_text, encoding="utf-8")
+    else:
+        print("[index] 内容无变化, 未改写 %s" % INDEX_PATH.name)
     print("\n[done] 新增 %d / 补传 %d / 跳过 %d, 索引共 %d 条 → %s"
           % (new_cnt, patch_cnt, skip_cnt, len(index["versions"]), INDEX_PATH.name))
 
