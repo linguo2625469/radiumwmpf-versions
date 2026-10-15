@@ -1,5 +1,5 @@
 	
-	<updateConfig checkvalue="B4B7BCFCB4486B342958667D1D34A5A9" configVer="4330" signature="MGYCMQDR88oV3eIs0FDWw82crUq1LBOmBcWptxUhlpiwfWF3yPK3znS/kpa1SAL2jwLuejACMQDZjmhOArhPxpz6lcrMNCWYyl2I3eiU6ZfxUT+NfSJBXR4DcEfqbMliij8oMxGzSjc=">
+	<updateConfig checkvalue="C5F460B0AC81E08F0E1B95A71EDDAF5E" configVer="4335" signature="MGQCMHbGcprNoAQpB7C84sg0BwmTj/eFMMgh0d2kIt+YbVbkfhq6n+zR3kG9I6MFV8pKewIwC6Jwwgx3zxgJWEiP1VhK/frrCzg/g65T1KD5o4PxeFdm80RE7KT6YYzSdrz6z9Wl">
 	  <Versions>
 	    <VersionInfo appClientVerMin="0xF2513001" bootsFlowControlKey="updateConfigUniWin.xml-8-CourgettePatch-20-583134ecce7802f3d2b6eb04514874e5" bootsFlowControlKeyExpirationDate="20261016" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/CourgettePatch_1.0.1.1_V20.zip" grayMax="10000" grayMin="1" md5="FD5E9FFEA66C477984EFDD6A353D042A" name="CourgettePatch" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="20">
 	      <Description/>
@@ -33,6 +33,12 @@
 	        <Patch md5="254ED3A4300A8A4024F39A1708971DEA" targetVersion="22252" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22252to22271.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541f37" bootsFlowControlKey="updateConfigUniWin.xml-8-XEditor-22643-f2c56c9402891561752df0b331f5717f" bootsFlowControlKeyExpirationDate="20261017" depsPlugin="RadiumWMPF" depsPluginMin="13000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XEditor_windows_x64_1.0.3.1130_V22643.zip" grayMax="9000" grayMin="8996" md5="5DE3CB5967658B34800744A7E730F710" name="XEditor" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="22643">
+	      <Description/>
+	      <patches>
+	        <Patch md5="A9650ADA1A5C1E02FAD01CA561AD804B" targetVersion="22633" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22633to22643.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
 	    <VersionInfo appClientVerMin="0xF2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-WeixinUpdate-9013-77780aa5b7a49eeffa3a11a025bb0d89" bootsFlowControlKeyExpirationDate="20261016" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WeixinUpdate_1.0.0.18_V9013.zip" grayMax="10000" grayMin="1" md5="DE94B9D33F6D98FC6F7B564D8ABC4D1A" name="WeixinUpdate" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="9013" versionId="6">
 	      <Description/>
 	      <patches>
@@ -59,7 +65,7 @@
 	        <Patch md5="F8DE61D5A63053060ABEEE53DE59553F" targetVersion="7267" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7267to7291.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26504-e59e2b563a578aa2b7b27f1be4d3717a" bootsFlowControlKeyExpirationDate="20261016" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.7_x64_universal_V26504.zip" grayMax="5100" grayMin="5001" md5="B9DE03AF0BABA4FCEB215FCDCA584EE2" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26504" versionId="4">
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26504-ca5e2195d36d74d2e0b14753f6951672" bootsFlowControlKeyExpirationDate="20261018" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.7_x64_universal_V26504.zip" grayMax="5100" grayMin="4801" md5="B9DE03AF0BABA4FCEB215FCDCA584EE2" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26504" versionId="5">
 	      <Description/>
 	      <patches>
 	        <Patch md5="398E33536DD247DF16AFF545AEFFBE38" targetVersion="26503" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V26503to26504.patch" useCdn="true" useCellular="true"/>
@@ -104,7 +110,7 @@
 	        <Patch md5="D1CD75BD4370874AF970E92CAE215F1D" targetVersion="8094" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeChatOcr_x64_V8094to8096.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7308-99974612167313495c6682718b3d118c" bootsFlowControlKeyExpirationDate="20261017" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.310_V7308.zip" grayMax="9000" grayMin="8001" md5="26ED4795B9D3C7C5193211C91E81948A" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7308" versionId="2">
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7308-34a6d23459b1fd9e70fc8897fd2ef7c4" bootsFlowControlKeyExpirationDate="20261018" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.310_V7308.zip" grayMax="9000" grayMin="7101" md5="26ED4795B9D3C7C5193211C91E81948A" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7308" versionId="4">
 	      <Description/>
 	      <patches>
 	        <Patch/>
