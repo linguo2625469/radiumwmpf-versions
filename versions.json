@@ -87,7 +87,18 @@
       "appClientVerMin": "0xf2541701",
       "origin": "uni4",
       "collectedAt": "2026-10-10T08:36:47Z"
+    },
+    "RadiumWMPF-25799": {
+      "plugin": "RadiumWMPF",
+      "build": 25799,
+      "semver": "2.5.7.70",
+      "arch": "x64",
+      "fullurl": "https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.7.70_x64_universal_V25799.zip",
+      "md5": "4F91A663859583AAD940EDA01C222CDB",
+      "appClientVerMin": "0xf2541701",
+      "origin": "uni4",
+      "collectedAt": "2026-10-17T07:01:41Z"
     }
   },
-  "updatedAt": "2026-10-16T07:17:43Z"
+  "updatedAt": "2026-10-17T07:01:42Z"
 }
