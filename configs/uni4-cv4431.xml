@@ -1,0 +1,185 @@
+	
+	<updateConfig checkvalue="CF14784A2EFDF85E9F70557530E26202" configVer="4431" signature="MGQCMCthNy78V4EiHgBZFbz7jIYHJ3Amk/iTn1j5vluhQW90XPr1DTUXgW4UZ8u0iYidpgIwcTccWw0OIkvBqtIVCMXkWY36jQv2EFjMO8VONhAER/E/a5tiB9pBvhB/AjKx2cxf">
+	  <Versions>
+	    <VersionInfo appClientVerMin="0xF2513001" bootsFlowControlKey="updateConfigUniWin.xml-8-CourgettePatch-20-3bbe2e89c79591661a9887a262ef7801" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/CourgettePatch_1.0.1.1_V20.zip" grayMax="10000" grayMin="1" md5="FD5E9FFEA66C477984EFDD6A353D042A" name="CourgettePatch" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="20">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-XFilesOfficeReader-6774-779acbb0c254bc34cb061334fe2a58ec" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XFilesOfficeReader_windows_x64_1.1.1.87_V6774.zip" grayMax="10000" grayMin="1" mainPlugin="RadiumWMPF" mainPluginMax="16964" mainPluginMin="13001" md5="08BC767121BB364BBD73ACD4E96A6FC7" name="XFilesOfficeReader" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="6774" versionId="5">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-XFilesOfficeReader-7734-565b9112845b7745305b11a620450685" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XFilesOfficeReader_windows_x64_1.1.1.372_V7734.zip" grayMax="10000" grayMin="1" mainPlugin="RadiumWMPF" mainPluginMin="16965" md5="D3DC710B739B1D1842F498F72CA73FCA" name="XFilesOfficeReader" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7734" versionId="5">
+	      <Description/>
+	      <patches>
+	        <Patch md5="24D6F2A173599125097A64D47F146794" targetVersion="7677" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XFilesOfficeReader_x64_V7677to7734.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-XFilesOfficeReader-8043-a41932e5f56bacc787ea85f46effbc9b" bootsFlowControlKeyExpirationDate="20261027" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XFilesOfficeReader_windows_x64_1.1.1.478_V8043.zip" grayMax="10000" grayMin="1" mainPlugin="RadiumWMPF" mainPluginMin="16965" md5="069962C352E0687C1CD31D52498EABF5" name="XFilesOfficeReader" releaseDate="20261023" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateSchedule="5000:10000" updateStartTime="8" useCdn="true" version="8043" versionId="5">
+	      <Description/>
+	      <patches>
+	        <Patch md5="834D4B6F54424A1ECA6B7879F5579304" targetVersion="7734" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XFilesOfficeReader_x64_V7734to8043.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541b01" bootsFlowControlKey="updateConfigUniWin.xml-8-XEditor-22532-a38357bcbe294c579339c59bdf39057d" bootsFlowControlKeyExpirationDate="20261025" depsPlugin="RadiumWMPF" depsPluginMin="13000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XEditor_windows_x64_1.0.3.1021_V22532.zip" grayMax="10000" grayMin="1" md5="A7790199E9FE2D9A5537A03B6893ADF7" name="XEditor" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="22532" versionId="4">
+	      <Description/>
+	      <patches>
+	        <Patch md5="5A10A5C5FB593AB04E64406553CD23BE" targetVersion="22504" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22504to22532.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="0DD9C77FA4F22ABFF629483DA49BE69B" targetVersion="22443" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22443to22532.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="B79D6304372DE9C13F84E6F0687037BF" targetVersion="22432" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22432to22532.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMax="0xf2541b00" appClientVerMin="0xf2540316" bootsFlowControlKey="updateConfigUniWin.xml-8-XEditor-22271-cde0e96a52fb2b4df86a0fdb88a35c58" bootsFlowControlKeyExpirationDate="20261025" depsPlugin="RadiumWMPF" depsPluginMin="13000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XEditor_windows_x64_1.0.3.752_V22271.zip" grayMax="10000" grayMin="1" md5="0CB3E49ED20C287DFFBF022001BE2553" name="XEditor" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="22271" versionId="3">
+	      <Description/>
+	      <patches>
+	        <Patch md5="254ED3A4300A8A4024F39A1708971DEA" targetVersion="22252" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22252to22271.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541f37" bootsFlowControlKey="updateConfigUniWin.xml-8-XEditor-22643-10c007a2de21006cc729ea8723ec9509" bootsFlowControlKeyExpirationDate="20261025" depsPlugin="RadiumWMPF" depsPluginMin="13000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XEditor_windows_x64_1.0.3.1130_V22643.zip" grayMax="9000" grayMin="8996" md5="5DE3CB5967658B34800744A7E730F710" name="XEditor" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="22643">
+	      <Description/>
+	      <patches>
+	        <Patch md5="A9650ADA1A5C1E02FAD01CA561AD804B" targetVersion="22633" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XEditor_x64_V22633to22643.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-WeixinUpdate-9013-495e954cf072935bbcc98a191f826536" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WeixinUpdate_1.0.0.18_V9013.zip" grayMax="10000" grayMin="1" md5="DE94B9D33F6D98FC6F7B564D8ABC4D1A" name="WeixinUpdate" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="9013" versionId="6">
+	      <Description/>
+	      <patches>
+	        <Patch md5="4E9EF87E0430CF83A89BAA7E6DA69E53" targetVersion="9012" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeixinUpdate_V9012to9013.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2542001" bootsFlowControlKey="updateConfigUniWin.xml-8-WeixinUpdateNew-9201-d67d8f6dfa262ae87b0aceeff756e675" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WeixinUpdateNew_1.0.0.4_V9201.zip" grayMax="10000" grayMin="1" md5="FB8E2DAF177E4BB88D61A696E58BFC0C" name="WeixinUpdateNew" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="9201">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2540101" bootsFlowControlKey="updateConfigUniWin.xml-8-WMPFDrm-1004-8437dfb24c792202767bbc7b6fce3f6d" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WMPFDrm_1.0.0.11_V1004.zip" grayMax="10000" grayMin="1" mainPlugin="RadiumWMPF" mainPluginMin="11003" md5="BC50E494205ECDCF2C9BC5A1263FD015" name="WMPFDrm" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="1004" versionId="17">
+	      <Description/>
+	      <patches>
+	        <Patch md5="53DD58A060517A10699C93348BE0D792" targetVersion="1003" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WMPFDrm_V1003to1004.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2541F07" bootsFlowControlKey="updateConfigUniWin.xml-8-FinderLive-7702-420d7ce1567a749ca3c6d9db24c5b70c" bootsFlowControlKeyExpirationDate="20261030" customFilter="{&quot;action&quot;:&quot;avg&quot;,&quot;threshold&quot;:2000}" deviceAbis="x64" exp_key="clicfg_xwechat_use_new_flmaker_x_key" exp_value="1" forbidSysRegex="Windows [7|8|8.1]" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/FinderLive_3.0.0.26_V7702.zip" grayMax="5000" grayMin="1001" isGrayVersion="true" md5="1E87C8D39F939DB575B3D698458B3E0D" name="FinderLive" onlyForInstalled="true" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7702" versionId="2">
+	      <Description/>
+	      <patches>
+	        <Patch md5="2014966A5C65E1B99E792BD4D5B91896" targetVersion="7291" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7291to7702.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="F9BBBEBBEFC441FEDD91B04EF2B66E2B" targetVersion="7684" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7684to7702.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xF2540211" bootsFlowControlKey="updateConfigUniWin.xml-8-FinderLive-7291-802a9d4dad7fdd5d8a981ce4034b99dc" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" forbidSysRegex="Windows [7|8|8.1]" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/FinderLive_2.18.0.9_V7291.zip" grayMax="10000" grayMin="1" isGrayVersion="false" md5="E3B9F375138AD16AC94C2F311E37D50B" name="FinderLive" onlyForInstalled="true" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7291" versionId="4">
+	      <Description/>
+	      <patches>
+	        <Patch md5="357A8F25234D894667BC8DCE1DECA656" targetVersion="7225" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7225to7291.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="F8DE61D5A63053060ABEEE53DE59553F" targetVersion="7267" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7267to7291.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26506-6a399e2ba6d65d2fec5dccf8933977ae" bootsFlowControlKeyExpirationDate="20261029" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.9_x64_universal_V26506.zip" grayMax="5200" grayMin="4801" md5="AC94F515B952C1DB2EF770DC8FE1CCA4" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26506" versionId="3">
+	      <Description/>
+	      <patches>
+	        <Patch md5="ED1829B6021A343358C0DD6DE4B015B5" targetVersion="26504" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V26504to26506.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-25819-429581fb3f87ad85fefc06d571cf7728" bootsFlowControlKeyExpirationDate="20261030" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.7.71_x64_universal_V25819.zip" grayMax="2500" grayMin="1201" md5="11EE19AF517B865162884BD5CB63F808" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="25819" versionId="4">
+	      <Description/>
+	      <patches>
+	        <Patch md5="2B1C13D03F40737CC92FC972D8EFDB29" targetVersion="25799" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25799to25819.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="0260A33EA37801735D530E52C4E2B2E5" targetVersion="25715" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25715to25819.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-25799-926336cfcb4b6e6a2ba636f431e10249" bootsFlowControlKeyExpirationDate="20261026" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.7.70_x64_universal_V25799.zip" grayMax="4800" grayMin="2501" md5="4F91A663859583AAD940EDA01C222CDB" name="RadiumWMPF" releaseDate="20261019" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateSchedule="2000:4000:6000:8000:10000" updateStartTime="8" useCdn="true" version="25799" versionId="1">
+	      <Description/>
+	      <patches>
+	        <Patch md5="16BA1C8E672055F6B6BC5C7BE0962F7F" targetVersion="25715" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25715to25799.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="87FBBFCAE3324EEBBC9D935DD27BB15B" targetVersion="25773" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25773to25799.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541801" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-25819-6df8766b6abb3130109cf9602fbaff24" bootsFlowControlKeyExpirationDate="20261102" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.7.71_x64_universal_V25819.zip" grayMax="10000" grayMin="5001" md5="11EE19AF517B865162884BD5CB63F808" name="RadiumWMPF" releaseDate="20261026" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateSchedule="2000:4000:6000:8000:10000" updateStartTime="8" useCdn="true" version="25819" versionId="1">
+	      <Description/>
+	      <patches>
+	        <Patch md5="2B1C13D03F40737CC92FC972D8EFDB29" targetVersion="25799" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25799to25819.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="0260A33EA37801735D530E52C4E2B2E5" targetVersion="25715" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25715to25819.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2540601" bootsFlowControlKey="updateConfigUniWin.xml-8-WaveAudioModel-10042-65a3025dbddc029a8c23d084d1ae560f" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WaveAudioModel_1.0.2.57_V10042.zip" grayMax="10000" grayMin="1" md5="42F7D53C7B35716CA08403A9146545D7" name="WaveAudioModel" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="10042" versionId="8">
+	      <Description/>
+	      <patches>
+	        <Patch md5="671B71D9F4238FAD0098A1ADEAA68505" targetVersion="10038" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WaveAudioModel_V10038to10042.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541801" bootsFlowControlKey="updateConfigUniWin.xml-8-WinWeixinShare-2007-4506976d8fd1ff31612e605f9be58f1b" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WinWeixinShare_1.0.0.8_V2007.zip" grayMax="10000" grayMin="1" md5="D1BCEA439C34C9E345464DE75AC8F0D8" name="WinWeixinShare" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="2007" versionId="7">
+	      <Description/>
+	      <patches>
+	        <Patch md5="6C515C8A5ED527B04EC0C3762CBE83DE" targetVersion="2004" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WinWeixinShare_V2004to2007.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541b14" bootsFlowControlKey="updateConfigUniWin.xml-8-XPlayer-15060-8ffa568d8995827729b5d4f926b2d3ff" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/XPlayer_1.0.1.76_x64_V15060.zip" grayMax="9000" grayMin="5001" md5="813C9CE04CF5AEA0D2DF3475F27959CB" name="XPlayer" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="15060" versionId="10">
+	      <Description/>
+	      <patches>
+	        <Patch md5="EF129A507553A41003E26DC754700EEC" targetVersion="15048" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_XPlayer_x64_V15048to15060.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541620" bootsFlowControlKey="updateConfigUniWin.xml-8-WeChatOcr-8096-da345ba152ba4d014a3b8ee93ebe10fb" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/WeChatOcr_1.0.0.134_x64_V8096.zip" grayMax="5000" grayMin="1" md5="7DA4FEB36555E5CE858999D86C97DBC5" name="WeChatOcr" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="8096" versionId="1">
+	      <Description/>
+	      <patches>
+	        <Patch md5="50FC95B38F4A227036183C05344636DB" targetVersion="8082" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeChatOcr_x64_V8082to8096.patch" useCdn="true" useCellular="true"/>
+	        <Patch md5="D1CD75BD4370874AF970E92CAE215F1D" targetVersion="8094" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeChatOcr_x64_V8094to8096.patch" useCdn="true" useCellular="true"/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7315-e3bb6cc51db9891ac61382f0dbdd90a7" bootsFlowControlKeyExpirationDate="20261030" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.317_V7315.zip" grayMax="4400" grayMin="3801" md5="BA5D05D924C60A8D84E7E513DA35E891" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7315" versionId="1">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7309-a1b9ba24421f43dae7dc1f533369db80" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.311_V7309.zip" grayMax="10000" grayMin="5001" ignoreGray="1" md5="A6A54D1F73F136C24AC1461F398E663D" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7309" versionId="10">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7302-c10a9288cd88828807d88b45167984b1" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.304_V7302.zip" grayMax="5000" grayMin="1" md5="782196307D963FE2569DBD30BC1EBA87" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7302" versionId="10">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
+	  </Versions>
+	  <commands>
+	    <command deviceAbis="x64" module="default" optype="setConfigPeriod" opvalue="180" runtimeAbis="x64"/>
+	    <command deviceAbis="x64" grayMax="10000" grayMin="1" module="default" notify="true" optype="weixin_update_revert" opvalue="0xf2541c19" runtimeAbis="x64"/>
+	    <command appClientVerMin="0xf2540601" grayMax="10000" grayMin="1" module="default" optype="open_url_with_xweb" opvalue="[&quot;^(https?://mp\\.weixin\\.qq\\.com/(s[\\?/]|mp/).*)&quot;,&quot;^(https?://bc\\.weixin\\.qq\\.com/.*)&quot;,&quot;^(weixin://resourceid/SubscriptionProfile/personal\\.html.*)&quot;]"/>
+	    <command deviceAbis="x64" grayMax="10000" grayMin="1" module="default" name="FinderLive" optype="FinderLive_Command_AudioForceOffset" opvalue="{&quot;enable&quot;:true,&quot;speaker_force_offset&quot;:0,&quot;mic_force_offset&quot;:100}" runtimeAbis="x64"/>
+	    <command deviceAbis="x64" module="default" name="FinderLive" optype="FinderLive_Command_CameraLatencyDetectionConfig" opvalue="{&quot;enable&quot;: 1, &quot;device_id_list&quot;:  [&quot;YY开播&quot;] , &quot;detection_start_time&quot;: 0,&quot;latency_evaluation_range&quot;: 30, &quot;stability_threshold&quot;: 35, &quot;max_detection_duration&quot;: 30, &quot;alert_threshold&quot;: 50 , &quot;stability_ucl&quot;: 50, &quot;stability_lcl&quot;: 0}" runtimeAbis="x64"/>
+	    <command deviceAbis="x64" module="default" name="FinderLive" optype="FinderLive_Command_HardwareCheck" opvalue="{&quot;NVIDIA&quot;:{&quot;driver_version&quot;:[&quot;10.18.13.5362&quot;]}}" runtimeAbis="x64"/>
+	    <command deviceAbis="x64" module="default" name="FinderLive" optype="FinderLive_Command_AudioDetectConfig" opvalue="{&quot;enable_audio_detect&quot;:false}" runtimeAbis="x64"/>
+	    <command deviceAbis="x64" grayMax="10000" grayMin="1" module="default" name="FinderLive" optype="FinderLive_Command_Audio3aConfig" opvalue="{&quot;wave3a_enable&quot;:1,&quot;wave3a_all_enable_headset&quot;:7,&quot;wave3a_enable_headset&quot;:1,&quot;agc_gain_speaker&quot;:12,&quot;agc_gain_receiver&quot;:3,&quot;agc_gain_wireless_earphone&quot;:3,&quot;agc_gain_wire_earphone&quot;:3,&quot;agc_enable_voip&quot;:1,&quot;agc_enable_live&quot;:1,&quot;agc_mode&quot;:2,&quot;ns_enable_voip&quot;:0,&quot;ns_enable_live&quot;:0,&quot;ns_mode_voip&quot;:6,&quot;ns_mode_live&quot;:6,&quot;aec_enable_rmio&quot;:1,&quot;aec_enable_vpio&quot;:1,&quot;aec_mode_rmio&quot;:6,&quot;aec_mode_vpio&quot;:6,&quot;aec_mode_bgm&quot;:6,&quot;nnaec_model&quot;:2,&quot;nnaec_switch&quot;:1}" pluginMin="7171" runtimeAbis="x64"/>
+	    <command deviceAbis="x64" module="default" name="FinderLive" optype="FinderLive_Command_AppletConfig" opvalue="{&quot;enable_custom_gift_applet&quot;:false}" runtimeAbis="x64"/>
+	    <command module="default" optype="shellexecute_runin_utility" opvalue="true" whiteSysRegex="Windows 7"/>
+	    <command grayMax="5850" grayMin="5801" module="default" name="XPlayer" optype="xplayer2_host_watchdog_enable" opvalue="false" pluginMin="15060"/>
+	    <command appClientVerMin="0xf2541b14" module="default" optype="xplayer2_enable_hot_update" opvalue="true"/>
+	    <command appClientVerMin="0xf2541b14" grayMax="6300" grayMin="5801" module="default" name="XPlayer" optype="xplayer2_disable_ffmpeg_error_fallback_vlc" opvalue="true" pluginMin="15048"/>
+	    <command appClientVerMin="0xf2541b14" grayMax="4850" grayMin="3451" module="default" name="XPlayer" optype="xplayer2_disable_ffmpeg_error_fallback_vlc" opvalue="true" pluginMin="15048"/>
+	    <command appClientVerMin="0xf2541b14" grayMax="8278" grayMin="8278" module="default" name="XPlayer" optype="xplayer2_disable_ffmpeg_error_fallback_vlc" opvalue="true" pluginMin="15048"/>
+	    <command appClientVerMin="0xf2541734" module="default" optype="pc_show_img_sticker" opvalue="true"/>
+	    <command appClientVerMin="0xf2541844" module="default" optype="chat_markdown_switch" opvalue="true"/>
+	    <command appClientVerMin="0xf2541901" module="default" optype="param_XEditor_cmd8" opvalue="100"/>
+	    <command appClientVerMin="0xf2541f30" module="default" notify="true" optype="param_XEditor_cmd10" opvalue="100"/>
+	    <command appClientVerMin="0xf2541d07" grayMax="10000" grayMin="1" module="default" optype="subscription_osr_switch" opvalue="true"/>
+	    <command grayMax="10000" grayMin="1" module="app,chat" optype="fr_doc" opvalue="XWEB"/>
+	    <command grayMax="10000" grayMin="1" module="app,chat" optype="fr_docx" opvalue="XWEB"/>
+	    <command grayMax="1000" grayMin="1" module="chat" optype="fr_pdf" opvalue="XWEB"/>
+	    <command grayMax="10000" grayMin="1" module="app" optype="fr_pdf" opvalue="XWEB"/>
+	    <command grayMax="10000" grayMin="1" module="app,chat" optype="fr_ppt" opvalue="XWEB"/>
+	    <command grayMax="10000" grayMin="1" module="app,chat" optype="fr_pptx" opvalue="XWEB"/>
+	    <command grayMax="10000" grayMin="1" module="app,chat" optype="fr_xls" opvalue="XWEB"/>
+	    <command grayMax="10000" grayMin="1" module="app,chat" optype="fr_xlsx" opvalue="XWEB"/>
+	    <command appClientVerMin="0xf2541c15" grayMax="10000" grayMin="1" module="app,chat" optype="fr_md" opvalue="XWEB"/>
+	    <command appClientVerMin="0xf2541c15" grayMax="3500" grayMin="1501" module="app,chat" optype="fr_txt" opvalue="XWEB"/>
+	    <command appClientVerMin="0xf2541c15" grayMax="2000" grayMin="1" module="app,chat" optype="fr_htm" opvalue="XWEB"/>
+	    <command appClientVerMin="0xf2541c15" grayMax="2000" grayMin="1" module="app,chat" optype="fr_html" opvalue="XWEB"/>
+	  </commands>
+	</updateConfig>
