@@ -1,5 +1,5 @@
 	
-	<updateConfig checkvalue="E316BA93E234EBB5C4ADC27C84E35FCB" configVer="4439" signature="MGYCMQD/jzCs5VVyYPZrOQv2lMNdRxlZfP9TZ9JaxxMRhfIQSGquP7QGNZSzCDqTls9Qs3gCMQCHupAkkKlzENMxGd2gDI8uK+Xb5iB8uhK3vGYty8JnLcYJv9gFasG0UgGb+PALU4g=">
+	<updateConfig checkvalue="34762CB2ABAC9E1D9AAC234BBE518E62" configVer="4446" signature="MGUCMQCT0ViRoLhc103UpucloSsGRLO3EdGCylPgS2bpo5M1rVq92j/X7otPI9wqgqO4cfsCMFpFDWWX2L9ln0F5d/GIzOf7rCcK7mqgA9aNjw/jrXuNxLTc73ALO4JTTcjVtzniJg==">
 	  <Versions>
 	    <VersionInfo appClientVerMin="0xF2513001" bootsFlowControlKey="updateConfigUniWin.xml-8-CourgettePatch-20-3bbe2e89c79591661a9887a262ef7801" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/CourgettePatch_1.0.1.1_V20.zip" grayMax="10000" grayMin="1" md5="FD5E9FFEA66C477984EFDD6A353D042A" name="CourgettePatch" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="20">
 	      <Description/>
@@ -77,13 +77,13 @@
 	        <Patch md5="F8DE61D5A63053060ABEEE53DE59553F" targetVersion="7267" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7267to7291.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26506-6a399e2ba6d65d2fec5dccf8933977ae" bootsFlowControlKeyExpirationDate="20261029" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.9_x64_universal_V26506.zip" grayMax="5200" grayMin="4801" md5="AC94F515B952C1DB2EF770DC8FE1CCA4" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26506" versionId="3">
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26506-f06517f51d3ee64e4d68344168965a10" bootsFlowControlKeyExpirationDate="20261101" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.9_x64_universal_V26506.zip" grayMax="5200" grayMin="4801" md5="AC94F515B952C1DB2EF770DC8FE1CCA4" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26506" versionId="4">
 	      <Description/>
 	      <patches>
 	        <Patch md5="ED1829B6021A343358C0DD6DE4B015B5" targetVersion="26504" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V26504to26506.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-25819-4fc03cc7a669ce8b60853d8e1de955ef" bootsFlowControlKeyExpirationDate="20261031" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.7.71_x64_universal_V25819.zip" grayMax="2500" grayMin="1001" md5="11EE19AF517B865162884BD5CB63F808" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="25819" versionId="5">
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-25819-75a0b6e0bfb11913baba290ae6eb9666" bootsFlowControlKeyExpirationDate="20261101" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.5.7.71_x64_universal_V25819.zip" grayMax="2500" grayMin="601" md5="11EE19AF517B865162884BD5CB63F808" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="25819" versionId="7">
 	      <Description/>
 	      <patches>
 	        <Patch md5="2B1C13D03F40737CC92FC972D8EFDB29" targetVersion="25799" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_RadiumWMPF_x64_V25799to25819.patch" useCdn="true" useCellular="true"/>
@@ -122,13 +122,7 @@
 	        <Patch md5="D1CD75BD4370874AF970E92CAE215F1D" targetVersion="8094" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeChatOcr_x64_V8094to8096.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7317-f76eccdbeb3f35653de3594d3e4b99b7" bootsFlowControlKeyExpirationDate="20261031" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.319_V7317.zip" grayMax="3800" grayMin="3501" md5="5C141DE7A0CF84FC59A1CA085AA55B38" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7317">
-	      <Description/>
-	      <patches>
-	        <Patch/>
-	      </patches>
-	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7315-e3bb6cc51db9891ac61382f0dbdd90a7" bootsFlowControlKeyExpirationDate="20261030" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.317_V7315.zip" grayMax="4400" grayMin="3801" md5="BA5D05D924C60A8D84E7E513DA35E891" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7315" versionId="1">
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7317-b5ed068ef589027037c827de5bfd5816" bootsFlowControlKeyExpirationDate="20261101" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.319_V7317.zip" grayMax="3800" grayMin="2801" md5="5C141DE7A0CF84FC59A1CA085AA55B38" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7317" versionId="2">
 	      <Description/>
 	      <patches>
 	        <Patch/>
