@@ -1,5 +1,5 @@
 	
-	<updateConfig checkvalue="E3E0E9E461A149746FC39EF6C27127EE" configVer="4487" signature="MGQCMFA8xidih8popkN8t0ZBBFOCw2VkJqmpZmBmxShMusx6+0bK4jclzA0fJPJT8J5QugIwdoArY4uXG3eYvaouALTQurq2B+VJwNSRNmWe8hZl//WjaoF158TSliF/qtD6/dpY">
+	<updateConfig checkvalue="EFCDFBA4020EDC1F104E8E2B9E7A605C" configVer="4499" signature="MGQCMFv7Xpf4JEVWnOqGH9KmDkFkeLMFmjg5vcC24No5c7AP22m3CoIlp8wb817VRREi1wIwIf/jmb1HYU1xKzSslr2821R4qLD4DXWrZc91ZOsE7KUiQC1rPWWcKNcx/znF9S2w">
 	  <Versions>
 	    <VersionInfo appClientVerMin="0xF2513001" bootsFlowControlKey="updateConfigUniWin.xml-8-CourgettePatch-20-3bbe2e89c79591661a9887a262ef7801" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/CourgettePatch_1.0.1.1_V20.zip" grayMax="10000" grayMin="1" md5="FD5E9FFEA66C477984EFDD6A353D042A" name="CourgettePatch" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="20">
 	      <Description/>
@@ -103,7 +103,7 @@
 	        <Patch md5="D1CD75BD4370874AF970E92CAE215F1D" targetVersion="8094" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeChatOcr_x64_V8094to8096.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7320-e8aaac33e694ec391fe56890ff0c2533" bootsFlowControlKeyExpirationDate="20261106" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.322_V7320.zip" grayMax="10000" grayMin="9991" md5="F0E0770B18E1AEBA91A29BEB50A24229" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7320">
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7322-8ebf7dbe01c7c8b9ea282959319119a5" bootsFlowControlKeyExpirationDate="20261108" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.324_V7322.zip" grayMax="9940" grayMin="9801" md5="50A5248ABD7F87AFB42E218ABB35614F" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7322">
 	      <Description/>
 	      <patches>
 	        <Patch/>
@@ -115,13 +115,13 @@
 	        <Patch/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7319-23c0f57d4205e065ba3d77a5f4fd2dfc" bootsFlowControlKeyExpirationDate="20261107" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.321_V7319.zip" grayMax="1600" grayMin="1" ignoreGray="1" md5="8D129A61178E4DD81570C0496790E176" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7319" versionId="3">
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7319-bc0268f6cc45853ce69237343da1bd01" bootsFlowControlKeyExpirationDate="20261108" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.321_V7319.zip" grayMax="3200" grayMin="1" ignoreGray="1" md5="8D129A61178E4DD81570C0496790E176" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7319" versionId="6">
 	      <Description/>
 	      <patches>
 	        <Patch/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7309-a1b9ba24421f43dae7dc1f533369db80" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.311_V7309.zip" grayMax="10000" grayMin="5001" ignoreGray="1" md5="A6A54D1F73F136C24AC1461F398E663D" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7309" versionId="10">
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7309-2a6ffbf7b77dea3ea773144af2d8a17f" bootsFlowControlKeyExpirationDate="20261107" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.311_V7309.zip" grayMax="10000" grayMin="5001" md5="A6A54D1F73F136C24AC1461F398E663D" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7309" versionId="11">
 	      <Description/>
 	      <patches>
 	        <Patch/>
