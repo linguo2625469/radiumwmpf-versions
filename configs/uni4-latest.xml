@@ -1,5 +1,5 @@
 	
-	<updateConfig checkvalue="33C59CDB2CDD367D5CE1377FDF9373BD" configVer="4527" signature="MGYCMQDRhieuOmcvjwCZiYOIosBBXBqp6vjt1dBoSg+I8E8bJ4iaWMTLuyLLn9HvdxNrzZICMQCBbo37uiAWUhWS41+rFd3peBaOinGlzLi8O0WWGE9ExEEMr5TW03qSgR8Idzn8c+c=">
+	<updateConfig checkvalue="51687463D709E8C6CC2797484151B529" configVer="4533" signature="MGYCMQCbINZ70kNU8l8bXWiGOrURKY6zd00p5GWvyunS7RpX/V8I55rDlWJBJnh6mV2wFDcCMQCsLyoEMGi/DzdgrGNJLM93tDU7l5jyGKvynr6XjwNtR2kHSjyVmESdGJvZDg04cqs=">
 	  <Versions>
 	    <VersionInfo appClientVerMin="0xF2513001" bootsFlowControlKey="updateConfigUniWin.xml-8-CourgettePatch-20-3bbe2e89c79591661a9887a262ef7801" bootsFlowControlKeyExpirationDate="20261025" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/CourgettePatch_1.0.1.1_V20.zip" grayMax="10000" grayMin="1" md5="FD5E9FFEA66C477984EFDD6A353D042A" name="CourgettePatch" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="20">
 	      <Description/>
@@ -65,6 +65,12 @@
 	        <Patch md5="F8DE61D5A63053060ABEEE53DE59553F" targetVersion="7267" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_FinderLive_V7267to7291.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
+	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26512-93082bae60b4de5834707f83ac4db7ba" bootsFlowControlKeyExpirationDate="20261114" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.7_x64_universal_V26512.zip" grayMax="5005" grayMin="5001" md5="9BB92120FA6F35D7DE951788E0E42F60" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26512">
+	      <Description/>
+	      <patches>
+	        <Patch/>
+	      </patches>
+	    </VersionInfo>
 	    <VersionInfo appClientVerMin="0xf2541701" bootsFlowControlKey="updateConfigUniWin.xml-8-RadiumWMPF-26509-0d42080896b46855513519d7d0ce23d6" bootsFlowControlKeyExpirationDate="20261113" depsPlugin="XEditor" depsPluginMin="21000" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/RadiumWMPF_2.6.0.11_x64_universal_V26509.zip" grayMax="5950" grayMin="5801" md5="A903BC7C7598385A165CDF0E5FA46682" name="RadiumWMPF" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="26509" versionId="1">
 	      <Description/>
 	      <patches>
@@ -109,7 +115,7 @@
 	        <Patch md5="D1CD75BD4370874AF970E92CAE215F1D" targetVersion="8094" url="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Patch/xwechatplugin_WeChatOcr_x64_V8094to8096.patch" useCdn="true" useCellular="true"/>
 	      </patches>
 	    </VersionInfo>
-	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7324-b0b7993e31fc75035fcdec68ebb55018" bootsFlowControlKeyExpirationDate="20261113" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.326_V7324.zip" grayMax="9500" grayMin="8801" md5="7935C7271DFADA7284D0330DACDC388C" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7324" versionId="2">
+	    <VersionInfo appClientVerMin="0xf2540001" bootsFlowControlKey="updateConfigUniWin.xml-8-UpdateNotify-7324-da4c7d10f29d9e651053867085d77dfe" bootsFlowControlKeyExpirationDate="20261114" deviceAbis="x64" fullurl="https://dldir1v6.qq.com/weixin/Universal/Windows/XPlugin/Package/UpdateNotify_1.0.1.326_V7324.zip" grayMax="9500" grayMin="8001" md5="7935C7271DFADA7284D0330DACDC388C" name="UpdateNotify" runtimeAbis="x64" sdkMin="240401" updateEndTime="18" updateStartTime="8" useCdn="true" version="7324" versionId="4">
 	      <Description/>
 	      <patches>
 	        <Patch/>
